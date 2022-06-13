@@ -148,7 +148,7 @@ theta_init  = [theta1_init; theta2_init];
 lambda_init = 0.92;
 lambda_end  = 0.99;
 % Band-pass Q filter parameter
-alpha_init  = 0.8; % 0.95
+alpha_init  = 0.99; % 0.95
 alpha_end   = 0.865;%470; 
 alpha       = alpha_end;
 
